@@ -1,0 +1,4 @@
+# Stash 覆写文件示例
+
+rules:
+  - DOMAIN-SUFFIX,discomax.com,香港09HKT
