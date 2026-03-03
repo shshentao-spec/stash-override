@@ -1,5 +1,5 @@
 # Stash 覆写文件示例
 
 rules:
-  - DOMAIN-SUFFIX,discomax.com,香港09HKT
+  - DOMAIN-SUFFIX,discomax.com,香港10HKT
   - DOMAIN-SUFFIX,apps.apple.com,DIRECT
