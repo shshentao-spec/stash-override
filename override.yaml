@@ -3,3 +3,4 @@
 rules:
   - DOMAIN-SUFFIX,discomax.com,香港10HKT
   - DOMAIN-SUFFIX,apps.apple.com,DIRECT
+  - DOMAIN-SUFFIX,interactivebrokers.com,DIRECT
