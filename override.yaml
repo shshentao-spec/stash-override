@@ -4,3 +4,7 @@ rules:
   - DOMAIN-SUFFIX,discomax.com,香港10HKT
   - DOMAIN-SUFFIX,apps.apple.com,DIRECT
   - DOMAIN-SUFFIX,interactivebrokers.com,DIRECT
+  - DOMAIN,play-edge.itunes.apple.com,美国01aws
+  - DOMAIN,known-issues.apple.com,美国01aws
+  - DOMAIN,hls-amt.itunes.apple.com,美国01aws
+  - DOMAIN,linear.tv.apple.com,美国01aws
