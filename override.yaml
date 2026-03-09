@@ -11,4 +11,5 @@ rules:
   - DOMAIN,linear.tv.apple.com,美国01aws
   - DOMAIN-SUFFIX,n26.com,DIRECT
   - DOMAIN-SUFFIX,tech26.de,DIRECT
+  - DOMAIN-SUFFIX,number26.de,DIRECT
 
