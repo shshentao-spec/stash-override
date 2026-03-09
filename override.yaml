@@ -13,4 +13,5 @@ rules:
   - DOMAIN-SUFFIX,tech26.de,DIRECT
   - DOMAIN-SUFFIX,number26.de,DIRECT
   - DOMAIN-SUFFIX,za.group,DIRECT
+  - DOMAIN-SUFFIX,zajourney.com,DIRECT
 
