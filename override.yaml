@@ -9,3 +9,6 @@ rules:
   - DOMAIN,known-issues.apple.com,美国01aws
   - DOMAIN,hls-amt.itunes.apple.com,美国01aws
   - DOMAIN,linear.tv.apple.com,美国01aws
+  - DOMAIN-SUFFIX,n26.com,DIRECT
+  - DOMAIN-SUFFIX,tech26.de,DIRECT
+
