@@ -15,8 +15,7 @@ rules:
   - DOMAIN-SUFFIX,number26.de,DIRECT
   - DOMAIN-SUFFIX,za.group,DIRECT
   - DOMAIN-SUFFIX,zajourney.com,DIRECT
-  - DOMAIN-SUFFIX,airstarbank.com,DIRECT
-  - DOMAIN-SUFFIX,aliyuncs.com,DIRECT
+  - DOMAIN-SUFFIX,airstarbank.DIRECT
 #券商
   - DOMAIN-SUFFIX,interactivebrokers.com,DIRECT
   - DOMAIN-SUFFIX,ibkr.com,DIRECT
