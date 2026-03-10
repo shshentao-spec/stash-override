@@ -16,8 +16,6 @@ rules:
   - DOMAIN-SUFFIX,za.group,DIRECT
   - DOMAIN-SUFFIX,zajourney.com,DIRECT
   - DOMAIN-SUFFIX,airstarbank.com,DIRECT
-  - DOMAIN-KEYWORD,antbank,DIRECT
-  - DOMAIN-KEYWORD,ant-hkbank,DIRECT
   - DOMAIN-SUFFIX,aliyuncs.com,DIRECT
 #券商
   - DOMAIN-SUFFIX,interactivebrokers.com,DIRECT
