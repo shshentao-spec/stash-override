@@ -1,18 +1,23 @@
 # Stash 覆写文件示例
 
 rules:
-  - DOMAIN-SUFFIX,discomax.com,香港10HKT
+#系统
   - DOMAIN-SUFFIX,apps.apple.com,DIRECT
-  - DOMAIN-SUFFIX,interactivebrokers.com,DIRECT
-  - DOMAIN-SUFFIX,ibkr.com,DIRECT
+#娱乐
+  - DOMAIN-SUFFIX,discomax.com,香港10HKT
   - DOMAIN,play-edge.itunes.apple.com,美国01aws
   - DOMAIN,known-issues.apple.com,美国01aws
   - DOMAIN,hls-amt.itunes.apple.com,美国01aws
   - DOMAIN,linear.tv.apple.com,美国01aws
+#银行
   - DOMAIN-SUFFIX,n26.com,DIRECT
   - DOMAIN-SUFFIX,tech26.de,DIRECT
   - DOMAIN-SUFFIX,number26.de,DIRECT
   - DOMAIN-SUFFIX,za.group,DIRECT
   - DOMAIN-SUFFIX,zajourney.com,DIRECT
   - DOMAIN-SUFFIX,airstarbank.com,DIRECT
-
+  - DOMAIN-KEYWORD,antbank,DIRECT
+  - DOMAIN-KEYWORD,ant-hkbank,DIRECT
+#券商
+  - DOMAIN-SUFFIX,interactivebrokers.com,DIRECT
+  - DOMAIN-SUFFIX,ibkr.com,DIRECT
