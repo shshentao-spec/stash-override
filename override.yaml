@@ -19,3 +19,4 @@ rules:
 #券商
   - DOMAIN-SUFFIX,interactivebrokers.com,DIRECT
   - DOMAIN-SUFFIX,ibkr.com,DIRECT
+  - DOMAIN-SUFFIX,lbkrs.com,DIRECT
