@@ -21,3 +21,7 @@ rules:
   - DOMAIN-SUFFIX,ibkr.com,DIRECT
   - DOMAIN-SUFFIX,lbkrs.com,DIRECT
   - DOMAIN-SUFFIX,longbridgeapp.com,DIRECT
+#币圈
+  - DOMAIN-KEYWORD,biance,DIRECT
+  - DOMAIN-KEYWORD,okx,DIRECT
+  - DOMAIN-KEYWORD,bitget,DIRECT
