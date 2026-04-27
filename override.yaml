@@ -4,7 +4,7 @@ rules:
 #系统
   - DOMAIN-SUFFIX,apps.apple.com,DIRECT
 #娱乐
-  - DOMAIN-SUFFIX,discomax.com,香港10HKT
+  - DOMAIN-SUFFIX,discomax.com,美国02aws
   - DOMAIN,play-edge.itunes.apple.com,美国01aws
   - DOMAIN,known-issues.apple.com,美国01aws
   - DOMAIN,hls-amt.itunes.apple.com,美国01aws
