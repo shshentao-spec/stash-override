@@ -10,7 +10,7 @@ rules:
   #- DOMAIN,hls-amt.itunes.apple.com,美国01aws
   #- DOMAIN,linear.tv.apple.com,美国01aws
 #银行
-  - DOMAIN-SUFFIX,hsbc.com,DIRECT
+  - DOMAIN-KEYWORD,hsbc.com,DIRECT
   - DOMAIN-SUFFIX,n26.com,DIRECT
   - DOMAIN-SUFFIX,tech26.de,DIRECT
   - DOMAIN-SUFFIX,number26.de,DIRECT
