@@ -4,7 +4,7 @@ rules:
 #系统
   - DOMAIN-SUFFIX,apps.apple.com,DIRECT
 #娱乐
-  - DOMAIN-SUFFIX,discomax.com,香港1-A-家宽IP视频优化
+  #- DOMAIN-SUFFIX,discomax.com,香港1-A-家宽IP视频优化
   #- DOMAIN,play-edge.itunes.apple.com,美国01aws
   #- DOMAIN,known-issues.apple.com,美国01aws
   #- DOMAIN,hls-amt.itunes.apple.com,美国01aws
@@ -18,8 +18,6 @@ rules:
   - DOMAIN-SUFFIX,zainvest.group,DIRECT
   - DOMAIN-SUFFIX,zajourney.com,DIRECT
   - DOMAIN-SUFFIX,elebank.com,DIRECT
-  - DOMAIN-SUFFIX,mybank.cn,DIRECT
-  - DOMAIN-SUFFIX,googleapis.com,DIRECT
   - DOMAIN-SUFFIX,antbank.hk,DIRECT
   - DOMAIN-SUFFIX,antbank.mo,DIRECT
   - DOMAIN-KEYWORD,antbank,DIRECT
