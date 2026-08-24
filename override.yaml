@@ -21,6 +21,7 @@ rules:
 #
   - DOMAIN-SUFFIX,elebank.com,DIRECT
   - DOMAIN-SUFFIX,mybank.cn,DIRECT
+  - DOMAIN-SUFFIX,googleapis.com,DIRECT
   - DOMAIN-SUFFIX,antbank.hk,DIRECT
   - DOMAIN-SUFFIX,antbank.mo,DIRECT
   - DOMAIN-KEYWORD,antbank,DIRECT
