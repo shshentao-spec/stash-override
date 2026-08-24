@@ -17,8 +17,6 @@ rules:
   - DOMAIN-SUFFIX,za.group,DIRECT
   - DOMAIN-SUFFIX,zainvest.group,DIRECT
   - DOMAIN-SUFFIX,zajourney.com,DIRECT
-
-#
   - DOMAIN-SUFFIX,elebank.com,DIRECT
   - DOMAIN-SUFFIX,mybank.cn,DIRECT
   - DOMAIN-SUFFIX,googleapis.com,DIRECT
