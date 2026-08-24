@@ -17,13 +17,16 @@ rules:
   - DOMAIN-SUFFIX,za.group,DIRECT
   - DOMAIN-SUFFIX,zajourney.com,DIRECT
   - DOMAIN-SUFFIX,elebank.com,DIRECT
+  - DOMAIN-SUFFIX,mybank.cn,DIRECT
   - DOMAIN-SUFFIX,antbank.hk,DIRECT
+  - DOMAIN-SUFFIX,antbank.mo,DIRECT
   - DOMAIN-KEYWORD,antbank,DIRECT
-  - DOMAIN-KEYWORD,antbank,DIRECT
-  - DOMAIN-SUFFIX,antbank.hk,DIRECT
-  - DOMAIN-SUFFIX,antgroup.com,DIRECT
+  - DOMAIN-KEYWORD,mybank,DIRECT
+  # 支付宝/蚂蚁生态
   - DOMAIN-SUFFIX,alipay.com,DIRECT
-  - DOMAIN-SUFFIX,aliyun.com,DIRECT
+  - DOMAIN-SUFFIX,alipayobjects.com,DIRECT
+  - DOMAIN-SUFFIX,alipay.cn,DIRECT
+  - DOMAIN-KEYWORD,alipay,DIRECT
 
 
 #券商
