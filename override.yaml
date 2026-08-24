@@ -16,17 +16,6 @@ rules:
   - DOMAIN-SUFFIX,number26.de,DIRECT
   - DOMAIN-SUFFIX,za.group,DIRECT
   - DOMAIN-SUFFIX,zajourney.com,DIRECT
-  # --- 众安银行 (ZA Bank) 直连规则 ---
-  - PROCESS-NAME,ZA Bank,DIRECT
-  - DOMAIN-KEYWORD,zabank,DIRECT
-  - DOMAIN-SUFFIX,zabank.com,DIRECT
-  - DOMAIN-SUFFIX,zabank.com.hk,DIRECT
-  - DOMAIN-SUFFIX,zhongan.com,DIRECT
-  - DOMAIN-SUFFIX,zhongan.io,DIRECT
-  - DOMAIN-SUFFIX,zhongantech.com,DIRECT
-  - DOMAIN-SUFFIX,zhonganonline.com,DIRECT
-  - DOMAIN-SUFFIX,aliyun.com,DIRECT
-  - DOMAIN-SUFFIX,aliyuncs.com,DIRECT
 
 #
   - DOMAIN-SUFFIX,elebank.com,DIRECT
@@ -49,22 +38,6 @@ rules:
   - DOMAIN-KEYWORD,binance,DIRECT
   - DOMAIN-KEYWORD,okx,DIRECT
   - DOMAIN-KEYWORD,bitget,DIRECT
-tun:
-  enable: true
-  # 绕过指定域名，不经过 TUN 接口抓包
-  skip-proxy:
-    - '*.zabank.com'
-    - '*.zabank.com.hk'
-    - '*.zhongan.com'
-mitm:
-  # 将众安域名排除在 MITM 解密之外
-  skip-server-certificate-verify: true
-  exclude-hosts:
-    - '*.zabank.com'
-    - '*.zabank.com.hk'
-    - '*.zhongan.com'
-    - '*.zhongan.io'
-    - '*.zhongantech.com'
 
 
 
