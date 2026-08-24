@@ -24,6 +24,7 @@ rules:
   - DOMAIN-SUFFIX,antbank.hk,DIRECT
   - DOMAIN-SUFFIX,antbank.mo,DIRECT
   - DOMAIN-KEYWORD,antbank,DIRECT
+  - DOMAIN-KEYWORD,aliyuncs.com,DIRECT
   - DOMAIN-KEYWORD,mybank,DIRECT
   # 支付宝/蚂蚁生态
   - DOMAIN-SUFFIX,alipay.com,DIRECT
