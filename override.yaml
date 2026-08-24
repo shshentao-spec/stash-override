@@ -56,4 +56,15 @@ tun:
     - '*.zabank.com'
     - '*.zabank.com.hk'
     - '*.zhongan.com'
+mitm:
+  # 将众安域名排除在 MITM 解密之外
+  skip-server-certificate-verify: true
+  exclude-hosts:
+    - '*.zabank.com'
+    - '*.zabank.com.hk'
+    - '*.zhongan.com'
+    - '*.zhongan.io'
+    - '*.zhongantech.com'
+
+
 
