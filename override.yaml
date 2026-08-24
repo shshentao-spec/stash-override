@@ -40,8 +40,6 @@ rules:
   - DOMAIN-SUFFIX,alipayobjects.com,DIRECT
   - DOMAIN-SUFFIX,alipay.cn,DIRECT
   - DOMAIN-KEYWORD,alipay,DIRECT
-
-
 #券商
   - DOMAIN-SUFFIX,interactivebrokers.com,DIRECT
   - DOMAIN-SUFFIX,ibkr.com,DIRECT
@@ -51,3 +49,11 @@ rules:
   - DOMAIN-KEYWORD,binance,DIRECT
   - DOMAIN-KEYWORD,okx,DIRECT
   - DOMAIN-KEYWORD,bitget,DIRECT
+tun:
+  enable: true
+  # 绕过指定域名，不经过 TUN 接口抓包
+  skip-proxy:
+    - '*.zabank.com'
+    - '*.zabank.com.hk'
+    - '*.zhongan.com'
+
