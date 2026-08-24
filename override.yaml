@@ -19,6 +19,12 @@ rules:
   - DOMAIN-SUFFIX,elebank.com,DIRECT
   - DOMAIN-SUFFIX,antbank.hk,DIRECT
   - DOMAIN-KEYWORD,antbank,DIRECT
+  - DOMAIN-KEYWORD, antbank, DIRECT
+  - DOMAIN-SUFFIX, antbank.hk, DIRECT
+  - DOMAIN-SUFFIX, antgroup.com, DIRECT
+  - DOMAIN-SUFFIX, alipay.com, DIRECT
+  - DOMAIN-SUFFIX, aliyun.com, DIRECT
+
 
 #券商
   - DOMAIN-SUFFIX,interactivebrokers.com,DIRECT
