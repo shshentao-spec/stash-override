@@ -16,6 +16,13 @@ rules:
   - DOMAIN-SUFFIX,number26.de,DIRECT
   - DOMAIN-SUFFIX,za.group,DIRECT
   - DOMAIN-SUFFIX,zajourney.com,DIRECT
+# 众安银行官方及 API 域名
+  - DOMAIN-SUFFIX,zabank.com,DIRECT
+  - DOMAIN-SUFFIX,zabank.com.hk,DIRECT
+  - DOMAIN-SUFFIX,zhongan.com,DIRECT
+  - DOMAIN-SUFFIX,zhongan.io,DIRECT
+  - DOMAIN-KEYWORD,zabank,DIRECT
+#
   - DOMAIN-SUFFIX,elebank.com,DIRECT
   - DOMAIN-SUFFIX,mybank.cn,DIRECT
   - DOMAIN-SUFFIX,antbank.hk,DIRECT
