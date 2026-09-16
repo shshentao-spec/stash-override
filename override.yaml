@@ -37,6 +37,7 @@ rules:
   - DOMAIN-KEYWORD,binance,DIRECT
   - DOMAIN-KEYWORD,okx,DIRECT
   - DOMAIN-KEYWORD,bitget,DIRECT
+  - DOMAIN-KEYWORD,bybit,DIRECT
 
 
 
